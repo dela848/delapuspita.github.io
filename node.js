@@ -1,5 +1,5 @@
 // Synchronous
-
+//menambahkan nama 
 const getUserSyn = (id)=>{
     const nama = id === 1 ? 'santika' : 'galih'
 } 
